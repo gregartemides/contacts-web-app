@@ -5,7 +5,7 @@ The objective was to build both a web (React) and mobile (React Native) experien
 ![contacts web app](https://github.com/gregartemides/contacts-web-app/blob/master/contacts-web-app.jpg "Contacts Web App")
 
 ## Demo and Source
-https://codepen.io/gregartemides/pen/WEjZpa
+https://codepen.io/gregartemides/pen/WEEPYJ
 
 ## Companion Projects
 1. Contacts RESTful Api: https://github.com/gregartemides/contacts-api
